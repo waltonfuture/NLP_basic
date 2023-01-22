@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="tokenizers" />
+            <item index="1" class="java.lang.String" itemvalue="protobuf" />
+            <item index="2" class="java.lang.String" itemvalue="subprocess32" />
+            <item index="3" class="java.lang.String" itemvalue="transformers" />
+            <item index="4" class="java.lang.String" itemvalue="sacremoses" />
+            <item index="5" class="java.lang.String" itemvalue="networkx" />
+            <item index="6" class="java.lang.String" itemvalue="jieba" />
+            <item index="7" class="java.lang.String" itemvalue="python-Levenshtein" />
+            <item index="8" class="java.lang.String" itemvalue="smmap" />
+            <item index="9" class="java.lang.String" itemvalue="pyahocorasick" />
+            <item index="10" class="java.lang.String" itemvalue="promise" />
+            <item index="11" class="java.lang.String" itemvalue="torch" />
+            <item index="12" class="java.lang.String" itemvalue="psutil" />
+            <item index="13" class="java.lang.String" itemvalue="thulac" />
+            <item index="14" class="java.lang.String" itemvalue="tqdm" />
+            <item index="15" class="java.lang.String" itemvalue="termcolor" />
+            <item index="16" class="java.lang.String" itemvalue="pathtools" />
+            <item index="17" class="java.lang.String" itemvalue="regex" />
+            <item index="18" class="java.lang.String" itemvalue="sentry-sdk" />
+            <item index="19" class="java.lang.String" itemvalue="shortuuid" />
+            <item index="20" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="21" class="java.lang.String" itemvalue="openpyxl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
